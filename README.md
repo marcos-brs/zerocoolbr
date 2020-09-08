@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my personal projects
 
-- 🌱 I’m currently learning **the bests DevOps practices**
+- 🌱 I’m currently learning **the best DevOps practices**
 <!--
 - 👯 I’m looking to collaborate on [###](###)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full Stack Development and Machine Learning**
 
-- 📫 How to reach me [**Send me a email**](mailto:brmarcossantanabr@gmail.com)
+- 📫 How to reach me [**Send me an email**](mailto:brmarcossantanabr@gmail.com)
 
 - ⚡ Fun fact **I love to read about astronomy and physics**
 
