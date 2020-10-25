@@ -12,11 +12,11 @@ _Sou apaixonado desde criança por tecnologia, trabalho hoje como desenvolvedor 
 <p align="left">
   <ul>
     <li><b>Linguagens de Programação:</b></li>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
     <li><b>Front-end:</b></li>  
       <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
@@ -33,6 +33,7 @@ _Sou apaixonado desde criança por tecnologia, trabalho hoje como desenvolvedor 
     <li><b>DevOps:</b></li>  
       <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> 
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> 
@@ -45,7 +46,5 @@ _Sou apaixonado desde criança por tecnologia, trabalho hoje como desenvolvedor 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/>
-    <li><b>Ferramentas:</b></li>  
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
   </ul>  
 </p>
