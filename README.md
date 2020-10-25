@@ -1,4 +1,9 @@
 <h1 align="center">Oi, eu sou o Marcos 👋 (aka zerocoolbr)</h1>
+<p align="left>
+<a href="https://www.linkedin.com/in/marcosbrs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosbrs/" alt="Meu LinkedIn"/></a>
+<a href=”https://twitter.com/mbrsantana"><img src="https://img.shields.io/twitter/follow/mbrsantana?label=Follow&style=social" alt="Meu Twitter"></a>
+<a href="https://medium.com/@marcos.brs"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@marcos.brs%22" alt="Meu LinkedIn"/></a>
+</p>
 
 _Sou apaixonado desde criança por tecnologia, trabalho hoje como desenvolvedor **Full Stack** (frontend, backend e mobile). Gosto muito de **DevOps / DevSecOps** sempre me preocupando com todas as etapas de desenvolvimento. Tenho experiência nas áreas de **Inteligência Artificial** e **Aprendizado de Máquina** já tendo feito pesquisa acadêmica nas mesmas. Também tenho um carinho enorme por **Sistemas Embarcados** e **IoT**._
 
@@ -43,11 +48,4 @@ _Sou apaixonado desde criança por tecnologia, trabalho hoje como desenvolvedor 
     <li><b>Ferramentas:</b></li>  
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
   </ul>  
-</p>
-
-<h3>Me encontre nas redes sociais</h3>
-<p align="left">
-  <a href="https://twitter.com/mbrsantana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mbrsantana" height="30" width="30" /></a> 
-  <a href="https://linkedin.com/in/marcosbrs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcosbrs" height="30" width="30" /></a> 
-  <a href="https://medium.com/@marcos.brs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marcos.brs" height="30" width="30" /></a> 
 </p>
