@@ -1,8 +1,9 @@
 <h1 align="center">Oi, eu sou o Marcos 👋 (aka zerocoolbr)</h1>
-<p align="left>
-<a href="https://www.linkedin.com/in/marcosbrs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosbrs/" alt="Meu LinkedIn"/></a>
-<a href=”https://twitter.com/mbrsantana"><img src="https://img.shields.io/twitter/follow/mbrsantana?label=Follow&style=social" alt="Meu Twitter"></a>
-<a href="https://medium.com/@marcos.brs"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@marcos.brs%22" alt="Meu LinkedIn"/></a>
+<p align="left">
+          
+<a href="https://www.linkedin.com/in/marcosbrs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Meu LinkedIn"/></a> 
+<a href="https://medium.com/@marcos.brs"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@marcos.brs%22" alt="Meu Medium"/></a> 
+<a href="https://twitter.com/mbrsantana"><img src="https://img.shields.io/twitter/follow/mbrsantana?label=Follow&style=social" alt="Meu Twitter"></a> 
 </p>
 
 _Sou apaixonado desde criança por tecnologia, trabalho hoje como desenvolvedor **Full Stack** (frontend, backend e mobile). Gosto muito de **DevOps / DevSecOps** sempre me preocupando com todas as etapas de desenvolvimento. Tenho experiência nas áreas de **Inteligência Artificial** e **Aprendizado de Máquina** já tendo feito pesquisa acadêmica nas mesmas. Também tenho um carinho enorme por **Sistemas Embarcados** e **IoT**._
